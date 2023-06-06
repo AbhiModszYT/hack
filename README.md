@@ -10,9 +10,9 @@
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
 <br>
+
 - PHISING 
-- BRUTFORCE
-- SMS SPAMING
+- BRUTFORCE ATTACK IG
 - CAll SPAMING
 - MORE TOOLS ADDING SOON..
 
