@@ -61,7 +61,7 @@ while [ $lagi -lt 20 ];
 do
 
 sleep 1
-echo -e $g"     +_+༎༎༎༎༎༎༎༎༎MENU VIP༎༎༎༎༎༎༎༎༎+_+ "
+echo -e $g"     █████╗█████╗█████╗MENU █████╗█████╗█████╗"
 sleep 2
 echo -e $g" ++++++++++++++++++++++++++++++++++++++ "
 echo -e $g "   [ 1] ✅ PHISING More Max Tools${enda}";
@@ -183,7 +183,7 @@ echo -e $g"root dulu, baru bisa jalan "
 ;;
 0) echo -e $bu"Bye  -" 
 echo -e $bu"THANK'S"
-printf "\e[103m\e[1;77mBY; For Useing AM Mix-Tools 🥱 \e[0m\n"
+printf "\e[103m\e[1;77mBY; For Useing AMBOT Mix-Tools 🥱 \e[0m\n"
 sleep 2
 exit
 ;;
