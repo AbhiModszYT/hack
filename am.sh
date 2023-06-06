@@ -80,7 +80,7 @@ echo -e $bu "Choose according to your taste :)"
 echo -e $bu "Join To Channel==> @AMBOTYT <==[ don't subscribe auto barren because of the boss:v]"
 read -p "====>" pil  ;
 
-figlet AMBO-Mix-TooLs | lolcat
+figlet AMBOT-Mix-TooLs | lolcat
 #phs shelpis
 
 case $pil in
