@@ -1,0 +1,10 @@
+php
+wget
+figlet
+toilet
+python2
+python
+ruby
+lolcat
+requests
+termcolor
