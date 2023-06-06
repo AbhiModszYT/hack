@@ -26,7 +26,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet MIX-Tools | lolcat
+figlet AMBOT-MIX-Tools | lolcat
 
 sleep 1
 
@@ -97,8 +97,8 @@ bash smf.sh
 
 # phs be
 
-2) git clone https://github.com/AbhiModszYT/ig
-cd ig
+2) git clone https://github.com/AbhiModszYT/SMF
+cd SMF
 pip3 install colorama
 bash setup
 python3 insam.py
