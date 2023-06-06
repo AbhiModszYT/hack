@@ -10,11 +10,11 @@
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
 <br>
-- `PHISING `
-- `BRUTFORCE`
-- `SMS SPAMING`
-- `CAll SPAMING`
-- `MORE TOOLS ADDING SOON..`
+- PHISING 
+- BRUTFORCE
+- SMS SPAMING
+- CAll SPAMING
+- MORE TOOLS ADDING SOON..
 
 </details>
 
