@@ -19,4 +19,4 @@
 </details>
 
  - Install all cmds :
-- `apt upgrade && apt install git && apt-get install python3-pip -y && pip3 install -U pip && git clone https://github.com/AbhiModszYT/hack && cd hack && bash am.sh`
+- `apt update && apt upgrade && apt install git && apt-get install python3-pip -y && pip3 install -U pip && git clone https://github.com/AbhiModszYT/hack && cd hack && bash am.sh`
