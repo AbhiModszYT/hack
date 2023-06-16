@@ -120,8 +120,7 @@ python3 bomber.py
 
 #phs weeman
 
-4) git clone 
-https://github.com/AbhiModszYT/SMF
+4) git clone https://github.com/AbhiModszYT/SMF
 cd SMF/Ip-Tracker
 pkg install python-pip
 pip3 install -U -r requirements.txt
