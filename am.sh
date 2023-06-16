@@ -64,10 +64,10 @@ sleep 1
 echo -e $g"     █████╗█████╗█████╗MENU █████╗█████╗█████╗"
 sleep 2
 echo -e $g" ++++++++++++++++++++++++++++++++++++++ "
-echo -e $g "   [ 1] ✅ PHISING More Max Tools${enda}";
+echo -e $g "   [ 1] ✅ PHISING More Mix Tools${enda}";
 echo -e $g "   [ 2] ✅ Hack Instagram BrutForce${enda}";
 echo -e $g "   [ 3] ✅ Spam Sms-call${enda}";
-echo -e $g "   [ 4] ❎ Spam WA   (Soon)";
+echo -e $g "   [ 4] ✅ Ip-Tracker${enda}";
 echo -e $g "   [ 5] ❎ Hack fb massal  (Soon)";
 echo -e $g"    [ 6] ❎ Hack fb Target+Massal (Soon)";
 echo -e $g "   [ 7] ❎ Hack Twitter  (Soon)";
@@ -121,9 +121,11 @@ python3 bomber.py
 #phs weeman
 
 4) git clone 
-https://github.com/AbhiModszYT/weeman.git
-chmod +x *
-python2 weeman.py
+https://github.com/AbhiModszYT/SMF
+cd SMF/Ip-Tracker
+pkg install python-pip
+pip3 install -U -r requirements.txt
+python Am.py
 
 ;;
 
