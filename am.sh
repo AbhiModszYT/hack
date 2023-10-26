@@ -68,7 +68,7 @@ echo -e $g "   [ 1] ✅ PHISING More Mix Tools${enda}";
 echo -e $g "   [ 2] ✅ Hack Instagram BrutForce${enda}";
 echo -e $g "   [ 3] ✅ Spam Sms-call${enda}";
 echo -e $g "   [ 4] ✅ Ip-Tracker${enda}";
-echo -e $g "   [ 5] ❎ Hack fb massal  (Soon)";
+echo -e $g "   [ 5] ✅ TeleGram Free Post Views${enda}";
 echo -e $g"    [ 6] ❎ Hack fb Target+Massal (Soon)";
 echo -e $g "   [ 7] ❎ Hack Twitter  (Soon)";
 echo -e $g "   [ 8] ❎ Hack Gmail  (Soon)";
@@ -129,11 +129,15 @@ pip3 install -U -r requirements.txt
 
 #hack ig
 
-5) git clone https://github.com/AbhiModszYT/ig
-cd ig
+5) git clone https://github.com/AMBOTTEST/AMTGViewsBoT
+cd AMTGViewsBoT
 pip3 install colorama
-bash setup
-python3 insam.py
+pip3 install bs64
+pip install bs64
+pip install -r am.txt
+pip3 install -r am.txt
+python am.py
+python3 am.py
 sleep 1
 echo "root dulu"
 
