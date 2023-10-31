@@ -181,7 +181,7 @@ rm -rf hack
 git clone https://github.com/AbhiModszYT/hack
 cd hack
 ls
-bash am.sh
+bash am
 sleep 1
 echo -e $g"Update Done ✅"
 
