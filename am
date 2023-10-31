@@ -7,7 +7,6 @@ printf "  \e[101m\e[1;77m :::::::::>>>WELCOME TO<<<:::::::::\e[0m\n"
 printf "  \e[101m\e[1;77m :::AMBOT Max-Tools :::\e[0m\n"
 
 python2 pwds.py
-python pwds.py
 python restart.py
 
 # Variables
