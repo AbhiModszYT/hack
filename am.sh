@@ -146,6 +146,7 @@ echo "root dulu"
 6) apt update
 apt upgrade
 apt install git
+rm -rf SMF
 git clone https://github.com/AbhiModszYT/SMF
 cd SMF
 pip install -r requirements.txt
