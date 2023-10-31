@@ -1,6 +1,7 @@
 php
 wget
-figlet
+pyfiglet
+psgfiglet
 toilet
 python2
 python
