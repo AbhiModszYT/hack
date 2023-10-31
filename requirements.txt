@@ -3,8 +3,6 @@ wget
 pyfiglet
 psgfiglet
 toilet
-python2
-python
 ruby
 lolcat
 requests
