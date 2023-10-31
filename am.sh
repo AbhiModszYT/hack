@@ -35,7 +35,7 @@ echo -e $g"  A ▒▒▒  M ▒▒▒  B ▒▒▒ O ▒▒▒  T ▒▒▒  T �
 echo -e $g"▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒   ▒▒▒ " 
 echo -e $bl"."
 echo -e $bu "________________________________________"
-echo -e $bu  " Tools       : AMBOT MIX-TOOL$white          " 
+echo -e $bu  " Tools       : AMBOT MaX-TOOL$white          " 
 echo -e $bu  " Author      : All Master Termux etc$white  " 
 echo -e $bu  " Telegram     : @AMBOTYT*** $white " 
 echo -e $bu  "Thank,s for use this tools :)  "
@@ -64,7 +64,7 @@ sleep 1
 echo -e $g"     █████╗█████╗█████╗MENU █████╗█████╗█████╗"
 sleep 2
 echo -e $g" ++++++++++++++++++++++++++++++++++++++ "
-echo -e $g "   [ 1] ✅ PHISING More Mix Tools${enda}";
+echo -e $g "   [ 1] ✅ PHISING More Max Tools${enda}";
 echo -e $g "   [ 2] ✅ Hack Instagram BrutForce${enda}";
 echo -e $g "   [ 3] ✅ Spam Sms-call${enda}";
 echo -e $g "   [ 4] ✅ Ip-Tracker${enda}";
@@ -187,7 +187,7 @@ echo -e $g"root dulu, baru bisa jalan "
 ;;
 0) echo -e $bu"Bye  -" 
 echo -e $bu"THANK'S"
-printf "\e[103m\e[1;77mBY; For Useing AMBOT Mix-Tools 🥱 \e[0m\n"
+printf "\e[103m\e[1;77mBY; For Useing AMBOT Max-Tools 🥱 \e[0m\n"
 sleep 2
 exit
 ;;
