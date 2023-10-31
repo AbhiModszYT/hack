@@ -69,7 +69,7 @@ echo -e $g "   [ 2] ✅ Hack Instagram BrutForce${enda}";
 echo -e $g "   [ 3] ✅ Spam Sms-call${enda}";
 echo -e $g "   [ 4] ✅ Ip-Tracker${enda}";
 echo -e $g "   [ 5] ✅ TeleGram Free Post Views${enda}";
-echo -e $g"    [ 6] ❎ Hack fb Target+Massal (Soon)";
+echo -e $g"    [ 6] ✅ Ddos Attack Tools${enda}";
 echo -e $g "   [ 7] ❎ Hack Twitter  (Soon)";
 echo -e $g "   [ 8] ❎ Hack Gmail  (Soon)";
 echo -e $g "   [ 9] ❎ Youtube AutoView  (Soon)";
@@ -146,12 +146,12 @@ echo "root dulu"
 6) apt update
 apt upgrade
 apt install git
-git clone 
-https://github.com/AbhiModszYT/instaspam.git
-ls
-cd instaspam
-bash instaspam.sh
-
+git clone https://github.com/AbhiModszYT/SMF
+cd SMF
+pip install -r requirements.txt
+pip3 install -r requirements.txt
+python amddos.py
+python3 amddos.py
 ;;
 
 
